@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "hello-gem"
   gem.homepage = "http://github.com/ahmadhasankhan/hello-gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Just Learning}
+  gem.description = %Q{This is the first gem that i am going to create}
   gem.email = "er.ahmad.hassan@gmail.com"
   gem.authors = ["Ahmad Hasan Khan"]
   # dependencies defined in Gemfile
