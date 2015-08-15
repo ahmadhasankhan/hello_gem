@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ahmad Hassan"]
   spec.email         = ["er.ahmad.hassan@gmail.com"]
 
-  spec.summary       = %q{English to doge translations}
-  spec.description   = %q{Convert everyday boring English into doge speak!}
+  spec.summary       = %q{A gem that illustrates how to build a gem}
+  spec.description   = %q{A gem that illustrates how to build a gem...}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
